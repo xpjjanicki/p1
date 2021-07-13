@@ -1,5 +1,3 @@
 plik 2
-
-
-
-jakaÅ› linia
+druga linia
+jakaœ linia
